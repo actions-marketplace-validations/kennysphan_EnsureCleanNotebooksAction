@@ -1,8 +1,8 @@
-name: 'Ensure Clean Jupyter Notebooks'
-description: 'Enforce rules on certain cells and metadata in Jupyter Notebooks'
+name: 'Clean out Cells,output Jupyter Notebooks EnronRepo'
+description: '11-18-24 Updated package for Enforce rules on certain cells and metadata in Jupyter Notebooks'
 inputs:
   disable-checks:
-    description: 'Optional list of linting checks to disable'
+    description: 'Olist to check for disable'
     required: false
     default: ''
 runs:
